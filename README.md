@@ -1,3 +1,3 @@
 **Bonjour**
 
-ceci est l'originel, au revoir.
+La documentation: https://estanislawski4.github.io/Jeu2048/
