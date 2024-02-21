@@ -1,0 +1,7 @@
+<map id="/home/USERS/ELEVES/CIEL2023/estanislawski/Documents/C++/2048/jeu2048.h" name="/home/USERS/ELEVES/CIEL2023/estanislawski/Documents/C++/2048/jeu2048.h">
+<area shape="rect" id="node1" title="Déclaration de la classe Jeu2048." alt="" coords="135,5,350,61"/>
+<area shape="rect" id="node2" href="$jeu2048_8cpp.html" title="Implémentation de la classe Jeu2048." alt="" coords="5,109,235,165"/>
+<area shape="rect" id="node3" href="$plateau_8h.html" title="Déclaration de la classe Plateau." alt="" coords="259,109,471,165"/>
+<area shape="rect" id="node4" href="$main_8cpp.html" title="Programme principal du jeu 2048 avec gestion des joueurs." alt="" coords="137,213,349,269"/>
+<area shape="rect" id="node5" href="$plateau_8cpp.html" title="Implémentation de la classe Plateau." alt="" coords="373,213,600,269"/>
+</map>
